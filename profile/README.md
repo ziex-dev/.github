@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ziex-dev/branding/main/banner.gif" alt="Ziex" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/ziex-dev/branding/main/banner.gif" 
+    alt="Ziex" 
+    width="100%"
+    width="1200" 
+    height="300" 
+    style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
