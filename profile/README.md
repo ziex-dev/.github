@@ -4,7 +4,6 @@
     alt="Ziex" 
     width="1200" 
     height="300" 
-    style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
