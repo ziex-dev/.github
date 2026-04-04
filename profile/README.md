@@ -13,10 +13,3 @@
   <a href="https://ziex.dev/playground">Playground</a> ·
   <a href="https://ziex.dev/r/discord">Discord</a>
 </p>
-
-
-#### Communities
-
-- [Discord](https://ziex.dev/r/discord)
-- [Topic on Ziggit](https://ziex.dev/r/ziggit)
-- [Project on Zig Discord Community](https://ziex.dev/r/zig-discord) (Join Zig Discord first: https://discord.gg/zig)
