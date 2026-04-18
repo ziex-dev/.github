@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/ziex-dev/branding/main/banner.gif" 
+    src="https://raw.githubusercontent.com/ziex-dev/branding/main/banner-animated.svg" 
     alt="Ziex" 
     width="1200" 
     height="300" 
